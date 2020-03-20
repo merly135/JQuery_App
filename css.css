@@ -1,0 +1,21 @@
+img{
+    width: 45%;
+    margin: 20px;
+    border: 20px;
+    border-color: cadetblue;
+    position: center;
+}
+
+h1{
+    text-align: center;
+    color: cornsilk;
+    margin: 20px;
+    padding: 20px;
+    background-color: crimson;
+}
+
+
+body{
+    background-color: whitesmoke;
+
+}
